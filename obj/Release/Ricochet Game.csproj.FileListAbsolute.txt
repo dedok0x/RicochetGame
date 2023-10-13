@@ -1,0 +1,24 @@
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\bin\Release\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\bin\Release\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\Ricochet Game.csproj.AssemblyReference.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\Ricochet Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\LaserGame.g.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\LaserGame.GameForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\LaserGame.StartForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\LaserGame.Properties.Resources.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\Ricochet Game.csproj.GenerateResource.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\Ricochet Game.csproj.CoreCompileInputs.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Release\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\bin\Release\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\bin\Release\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\Ricochet Game.csproj.AssemblyReference.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\Ricochet Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\LaserGame.g.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\LaserGame.GameForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\LaserGame.StartForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\LaserGame.Properties.Resources.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\Ricochet Game.csproj.GenerateResource.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\Ricochet Game.csproj.CoreCompileInputs.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Release\LaserGame.pdb

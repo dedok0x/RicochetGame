@@ -1,0 +1,12 @@
+C:\Users\79186\Desktop\Course work\LaserGame\bin\Debug\LaserGame.exe
+C:\Users\79186\Desktop\Course work\LaserGame\bin\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.csproj.AssemblyReference.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.exe
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.g.resources
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.GameForm.resources
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.StartForm.resources

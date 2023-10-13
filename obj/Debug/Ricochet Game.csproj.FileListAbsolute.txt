@@ -1,0 +1,48 @@
+C:\Users\79186\Desktop\Course work\LaserGame\bin\Debug\LaserGame.exe
+C:\Users\79186\Desktop\Course work\LaserGame\bin\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\Ricochet Game.csproj.AssemblyReference.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\Ricochet Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.g.resources
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.GameForm.resources
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.StartForm.resources
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\Ricochet Game.csproj.GenerateResource.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\Ricochet Game.csproj.CoreCompileInputs.cache
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.exe
+C:\Users\79186\Desktop\Course work\LaserGame\obj\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\Ricochet Game.csproj.AssemblyReference.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\Ricochet Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\LaserGame.g.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\LaserGame.GameForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\LaserGame.StartForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\LaserGame.Properties.Resources.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\Ricochet Game.csproj.GenerateResource.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\Ricochet Game.csproj.CoreCompileInputs.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\obj\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\bin\Debug\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game\bin\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\bin\Debug\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\bin\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\Ricochet Game.csproj.AssemblyReference.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\Ricochet Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\LaserGame.g.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\LaserGame.GameForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\LaserGame.StartForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\LaserGame.Properties.Resources.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\Ricochet Game.csproj.GenerateResource.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\Ricochet Game.csproj.CoreCompileInputs.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\Ricochet Game Beta\obj\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\bin\Debug\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\bin\Debug\LaserGame.pdb
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\Ricochet Game.csproj.AssemblyReference.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\Ricochet Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\LaserGame.g.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\LaserGame.GameForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\LaserGame.StartForm.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\LaserGame.Properties.Resources.resources
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\Ricochet Game.csproj.GenerateResource.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\Ricochet Game.csproj.CoreCompileInputs.cache
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\LaserGame.exe
+C:\Users\79186\Desktop\КубГАУ\Course work\RicochetGame\obj\Debug\LaserGame.pdb
